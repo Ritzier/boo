@@ -1,0 +1,7 @@
+[package]
+name = "boo-core"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+nvim-oxi = { workspace = true }
